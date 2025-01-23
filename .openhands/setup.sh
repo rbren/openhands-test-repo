@@ -6,3 +6,4 @@ echo "contents" > file.txt
 false
 cat foo.txt
 echo "contents" > file2.txt
+sleep 1000
